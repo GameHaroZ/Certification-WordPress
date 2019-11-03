@@ -1,0 +1,12 @@
+/*
+Theme Name: Child theme Claude Babin 
+Description: Child theme StoreFront
+Author: Claude Babin
+Author URI: http://claudebabin.referentnumerique-insarouen.fr
+Template: storefront 
+Version: 0.1.0
+*/
+
+.woocommerce-product-search{
+	display: none;
+}
